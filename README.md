@@ -1,7 +1,7 @@
 # AAZStore-Upcoming-Apps
 > ASHFAQ ALI ZARDARI STORE's upcoming apps list.
 
-### Upcoming Apps List (Last updated at 06:15 PM Thursday 03 Aug 2023 GMT+05 PST Time)
+### Upcoming Apps List (Last updated at 06:15 PM Thursday 03 Aug 2023 GMT+05 PST)
 
   
 1. TopUps - Digital wallet and financial App
