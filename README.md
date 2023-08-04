@@ -12,6 +12,7 @@
 1. eBooks - eBooks online
 1. LearnNear - Find the nearest schools, colleges, Universities, and other educational institutions and bodies.
 1. GetEnrolled - Complete the online process of admission to educational institutions and bodies.
+1. Email Service Provider App
 1. More will be added soon...  
   
 <br>
